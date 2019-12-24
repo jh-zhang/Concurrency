@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bf8d41cd-10a9-47a7-9fce-85bbf479fed8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadLocal_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadLocal_test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -181,7 +180,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577183798252" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577183984820" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -260,12 +259,34 @@
       <updated>1576139383101</updated>
       <workItem from="1576139384465" duration="20553000" />
       <workItem from="1576302415355" duration="1825000" />
-      <workItem from="1577153334338" duration="3422000" />
+      <workItem from="1577153334338" duration="3801000" />
     </task>
+    <task id="LOCAL-00001" summary="Concurrency 1224 Part1 end">
+      <created>1577183639325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577183639326</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Concurrency 1224 Part1 end">
+      <created>1577183741330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577183741330</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Concurrency 1224 Part1 end">
+      <created>1577183817605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577183817605</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25800000" />
+    <option name="totallyTimeSpent" value="26179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -303,6 +324,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Concurrency 1224 Part1 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concurrency 1224 Part1 end" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
